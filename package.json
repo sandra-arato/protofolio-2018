@@ -1,0 +1,29 @@
+{
+  "name": "protofolio_2018",
+  "version": "1.0.0",
+  "description": "Portfolio for data and other development projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandra-arato/protofolio-2018.git"
+  },
+  "keywords": [
+    "data",
+    "portfolio",
+    "software",
+    "web",
+    "dev"
+  ],
+  "author": "Sandra Arato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandra-arato/protofolio-2018/issues"
+  },
+  "homepage": "https://github.com/sandra-arato/protofolio-2018#readme",
+  "dependencies": {
+    "milligram": "^1.3.0"
+  }
+}
